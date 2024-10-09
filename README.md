@@ -32,7 +32,7 @@ This project is a backend API for renting movies online. It allows users to view
     dotnet run
     ```
 
-3. The server will be running on `http://localhost:5154` (or any other port specified).
+3. The server will be running on `http://localhost:5154` (or any other port specified). [To utilize the frontend with this backend make sure that the `movieService.ts` file points correctly to the specified route and port]
 
 ### API Endpoints
 
