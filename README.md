@@ -23,7 +23,7 @@ This project is a backend API for renting movies online. It allows users to view
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/MovieRentalBackend.git
+    git clone https://github.com/mjguillemette/movies-backend.git
     cd MovieRentalBackend
     ```
 
