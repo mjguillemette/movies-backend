@@ -18,7 +18,6 @@ This project is a backend API for renting movies online. It allows users to view
 
 ### Prerequisites
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/download/dotnet/8.0)
-- Any IDE such as [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio](https://visualstudio.microsoft.com/)
 
 ### Running Locally
 
@@ -33,7 +32,7 @@ This project is a backend API for renting movies online. It allows users to view
     dotnet run
     ```
 
-3. The server will be running on `http://localhost:5000` (or any other port specified).
+3. The server will be running on `http://localhost:5154` (or any other port specified).
 
 ### API Endpoints
 
